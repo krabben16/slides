@@ -167,7 +167,7 @@ https://ja.wikipedia.org/wiki/%E5%87%9D%E9%9B%86%E5%BA%A6
 </div>
 <div>
 
-<img src="https://drive.google.com/uc?id=1EdxkPygQABsaMm6g6SXOfJONwky7Oki8" class="h-64 mx-auto">
+<img src="https://gyazo.com/2145111124eaa7e5cabe866ee8ef2793.png" class="h-64 mx-auto">
 
 </div>
 </div>
@@ -216,7 +216,7 @@ https://ja.wikipedia.org/wiki/%E5%87%9D%E9%9B%86%E5%BA%A6
 </div>
 <div>
 
-<img src="https://drive.google.com/uc?id=1cWdBuRARIZw6UQ8cUjnX-YGIQq0H0Euf" class="h-64 mx-auto">
+<img src="https://gyazo.com/b90ba338d155362bd5eeff9baaabd97f.png" class="h-64 mx-auto">
 
 </div>
 </div>
@@ -317,7 +317,7 @@ email.setSubject('whoops');
 </div>
 <div>
 
-<img src="https://drive.google.com/uc?id=1jTtRUMSGMUnAFHwk9KdPqzXSOoYBuq-j" class="h-64 mx-auto">
+<img src="https://gyazo.com/beef34ce6d0560dc4babaf9678b4fc86.png" class="h-64 mx-auto">
 
 </div>
 </div>
@@ -339,7 +339,7 @@ email.setSubject('whoops');
 </div>
 <div>
 
-<img src="https://drive.google.com/uc?id=1jTtRUMSGMUnAFHwk9KdPqzXSOoYBuq-j" class="h-64 mx-auto">
+<img src="https://gyazo.com/beef34ce6d0560dc4babaf9678b4fc86.png" class="h-64 mx-auto">
 
 </div>
 </div>
@@ -392,7 +392,7 @@ by Jim Weirich
 </div>
 <div>
 
-<img src="https://drive.google.com/uc?id=1lwj2g6BkvtDRmk3yQPmR4kCokqMa3gC2" class="h-48 mx-auto">
+<img src="https://gyazo.com/5ea876e521d35b0aa1d37e1ecdabe20a.png" class="h-48 mx-auto">
 
 </div>
 </div>
