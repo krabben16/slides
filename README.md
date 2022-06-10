@@ -12,12 +12,17 @@ Learn more about Slidev on [documentations](https://sli.dev/).
 
 # usage
 
+## dev
 ```
-name=software-architecture-chapter-3
+yarn dev software-architecture-chapter-3.md
+```
 
-# build
-yarn build ${name}.md
+## build (for SPA)
+```
+yarn build software-architecture-chapter-3.md
+```
 
-# export
-yarn export --output ${name}.pdf
+## export
+```
+yarn export software-architecture-chapter-3.md --output software-architecture-chapter-3.pdf
 ```
