@@ -305,7 +305,7 @@ email.setSubject('whoops');
 
 ---
 
-# 3.2.5.3 コナーセンスの性質 強さ[^1]
+# 3.2.5.3 コナーセンスの性質[^1]
 
 <div grid="~ cols-2 gap-4">
 <div>
@@ -326,7 +326,7 @@ email.setSubject('whoops');
 
 ---
 
-# 3.2.5.3 コナーセンスの性質 強さ[^1]
+# 3.2.5.3 コナーセンスの性質[^1]
 
 <div grid="~ cols-2 gap-4">
 <div>
