@@ -4,8 +4,7 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export",
-    "example": "slidev build example.md && slidev export --output example.pdf --with-clicks true"
+    "export": "slidev export"
   },
   "dependencies": {
     "@slidev/cli": "^0.33.0",
